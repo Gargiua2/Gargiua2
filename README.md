@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi!
+I'm Eliana Gargiulo, a games programmer.
 
+### My Projects |
+[Wicker and the Whispering Flame](https://github.com/Gargiua2/Wicker-and-the-Whispering-Flame), a 
 <!--
 **Gargiua2/Gargiua2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
